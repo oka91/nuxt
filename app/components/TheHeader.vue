@@ -21,12 +21,12 @@
   </el-menu>
 </template>
 
-<script>
-import { mapGetters } from 'vuex'
+// <script>
+// import { mapGetters } from 'vuex'
 
-export default {
-  computed: {
-    ...mapGetters(['user'])
-  }
-}
-</script>
+// export default {
+//   computed: {
+//     ...mapGetters(['user'])
+//   }
+// }
+// </script>
